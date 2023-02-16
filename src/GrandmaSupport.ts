@@ -389,7 +389,7 @@ export let grandmaProperties: Record<string, Properties> = {
 				y: basePic.y-6,
 				z: 999+basePic.id,
 				id: id,
-				pic: 'brainyGrandma.png',
+				pic: 'brainGrandma.png',
 				frame: -1,
 				grandma: true
 			}
